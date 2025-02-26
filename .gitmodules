@@ -1,0 +1,3 @@
+[submodule "dotman.rs"]
+	path = dotman.rs
+	url = https://github.com/timonviola/dotman.rs.git
