@@ -1,3 +1,0 @@
-[submodule "dotman"]
-	path = dotman
-	url = git@github.com:timonviola/dotman.rs.git
